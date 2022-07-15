@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <DifficultyDef>
+        <defName>DifficultyTweaks</defName>
+        <label>Difficulty Tweaks</label>
+        <description>Welp.</description>
+        <!-- Threats -->
+        <difficulty>6</difficulty>
+        <threatScale>2</threatScale>
+        <!-- General -->
+        <colonistMoodOffset>0</colonistMoodOffset>
+        <foodPoisonChanceFactor>1.50</foodPoisonChanceFactor>
+        <manhunterChanceOnDamageFactor>1.5</manhunterChanceOnDamageFactor>
+        <playerPawnInfectionChanceFactor>1.05</playerPawnInfectionChanceFactor>
+        <diseaseIntervalFactor>0.9</diseaseIntervalFactor>
+        <enemyReproductionRateFactor>1</enemyReproductionRateFactor>        <!-- Insect spawning rate -->
+        <deepDrillInfestationChanceFactor>1.10</deepDrillInfestationChanceFactor>
+        <!-- <friendlyFireChanceFactor>0.8</friendlyFireChanceFactor> -->        <!-- Cannot be set -->
+        <!-- <allowInstantKillChance>0.8</allowInstantKillChance> -->        <!-- Cannot be set -->        <!-- Colonist Instant Kill chance-->
+        <!-- Economy -->
+        <cropYieldFactor>0.9</cropYieldFactor>
+        <mineYieldFactor>0.9</mineYieldFactor>
+        <butcherYieldFactor>0.9</butcherYieldFactor>
+        <researchSpeedFactor>0.8</researchSpeedFactor>
+        <questRewardValueFactor>1.2</questRewardValueFactor>
+        <raidLootPointsFactor>0.5</raidLootPointsFactor>
+        <tradePriceFactorLoss>0.10</tradePriceFactorLoss>
+        <maintenanceCostFactor>1.0</maintenanceCostFactor>        <!-- Turret Rearm Cost -->
+        <scariaRotChance>1</scariaRotChance>
+        <enemyDeathOnDownedChanceFactor>0.8</enemyDeathOnDownedChanceFactor>
+        <!-- Ideology -->
+        <lowPopConversionBoost>5</lowPopConversionBoost>
+        <!-- Adaptation -->
+        <adaptationGrowthRateFactorOverZero>1</adaptationGrowthRateFactorOverZero>
+        <adaptationEffectFactor>0.5</adaptationEffectFactor>        <!-- Adaptation Impact -->
+        <fixedWealthMode>true</fixedWealthMode>
+        <!-- <fixedWealthTimeFactor>3</fixedWealthTimeFactor> -->        <!-- Cannot be set -->
+    </DifficultyDef>
+</Defs>
