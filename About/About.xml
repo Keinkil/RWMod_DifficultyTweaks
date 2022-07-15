@@ -6,5 +6,16 @@
 		<li>1.3</li>
 	</supportedVersions>
 	<packageId>Einkil.DifficultyTweaks</packageId>
-	<description>A custom Difficulty. Designed for personal use.</description>
+	<description>
+A custom Difficulty. Designed for personal use.
+Instead of modifying sliders every time we start a new game, we simply load this!
+We still have to modify a few sliders:
+* Friendly Fire chance
+* Colonist Instant Kill
+* Wealth Time Factor
+
+These don't appear to have an exposed DifficultyDef to modify.
+
+Feel free to use and abuse to create your own preset.
+	</description>
 </ModMetaData>
