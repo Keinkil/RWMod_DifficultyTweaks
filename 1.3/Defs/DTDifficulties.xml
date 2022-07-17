@@ -12,7 +12,7 @@
         <foodPoisonChanceFactor>1.50</foodPoisonChanceFactor>
         <manhunterChanceOnDamageFactor>1.5</manhunterChanceOnDamageFactor>
         <playerPawnInfectionChanceFactor>1.05</playerPawnInfectionChanceFactor>
-        <diseaseIntervalFactor>0.9</diseaseIntervalFactor>
+        <diseaseIntervalFactor>1.11</diseaseIntervalFactor>
         <enemyReproductionRateFactor>1</enemyReproductionRateFactor>        <!-- Insect spawning rate -->
         <deepDrillInfestationChanceFactor>1.10</deepDrillInfestationChanceFactor>
         <!-- <friendlyFireChanceFactor>0.8</friendlyFireChanceFactor> -->        <!-- Cannot be set -->
@@ -31,7 +31,7 @@
         <!-- Ideology -->
         <lowPopConversionBoost>5</lowPopConversionBoost>
         <!-- Adaptation -->
-        <adaptationGrowthRateFactorOverZero>1</adaptationGrowthRateFactorOverZero>
+        <adaptationGrowthRateFactorOverZero>0.75</adaptationGrowthRateFactorOverZero>
         <adaptationEffectFactor>0.5</adaptationEffectFactor>        <!-- Adaptation Impact -->
         <fixedWealthMode>true</fixedWealthMode>
         <!-- <fixedWealthTimeFactor>3</fixedWealthTimeFactor> -->        <!-- Cannot be set -->
